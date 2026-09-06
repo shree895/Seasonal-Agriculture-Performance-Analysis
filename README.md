@@ -272,26 +272,4 @@ These variables are compared with crop yield to understand whether nutrient leve
 
 ---
 
-## 📁 Repository Structure
 
-```text
-Seasonal-Agriculture-Performance-Analysis/
-│
-├── README.md
-├── requirements.txt
-├── .gitignore
-├── LICENSE
-│
-├── data/
-│   ├── raw/
-│   │   └── agriculture_dataset.csv
-│   │
-│   └── processed/
-│       └── cleaned_agriculture_dataset.csv
-│
-├── notebooks/
-│   └── Seasonal_Agriculture_Performance_Analysis.ipynb
-│
-└── outputs/
-    ├── figures/
-    └── tables/
